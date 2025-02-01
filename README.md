@@ -11,5 +11,7 @@ O Gemini foi utilizado para criar o título com a ideia de que o material é um 
 
 ## 🚀 Resultados
 O material é curto, objetivo e com linguagem simples para munir de informações as pessoas para que decidam que tipo de alimentação ter na rotina. 
-LINK PARA O GUIA
-LINK PARA O VÍDEO
+
+<a href="https://github.com/rosanasmara/BootcampCXGenAI/blob/main/GuiaRapidoAlimentos.pdf" title="Guia Rápido"> Link para o Guia Rápido Alimentos</a>
+
+<a href="https://github.com/rosanasmara/BootcampCXGenAI/raw/refs/heads/main/NutriTeens1.mp4" title="Video"> Link para o Video</a>
